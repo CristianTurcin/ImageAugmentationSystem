@@ -1,0 +1,4 @@
+Dummy
+Brightness 20
+Grayscale
+

@@ -1,0 +1,2 @@
+Brightness abc   # wrong param
+UnknownOp 10     # op not found

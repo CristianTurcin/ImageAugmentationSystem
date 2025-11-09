@@ -1,0 +1,13 @@
+# W3
+Brightness 25
+GRAYSCALE
+Contrast 1.2
+
+# W4
+FlipH
+Rotation 15
+Resize 640x480
+
+# chain
+Brightness 15 | Contrast 1.1 | Grayscale
+Rotation -10 | Resize 320x240

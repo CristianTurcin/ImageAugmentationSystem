@@ -1,0 +1,2 @@
+Brightness 10 | Contrast 1.2
+Rotation 15 | Resize 640x480
